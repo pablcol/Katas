@@ -1,5 +1,5 @@
-''' Unfinished! Need to figure out a way to If two words score the same, return
-the word that appears earliest in the original string. '''
+# Unfinished! Need to figure out a way to If two words score the same, return
+# the word that appears earliest in the original string.
 
 letter_dic = {'a': 1, 'b': 2,
               'c': 3, 'd': 4,
